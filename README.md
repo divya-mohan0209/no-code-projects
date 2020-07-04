@@ -1,4 +1,4 @@
-# My side projects
+# Side projects
 
 A list of some awesome projects that I've been working on (for fun!) apart from my daily job!
 
