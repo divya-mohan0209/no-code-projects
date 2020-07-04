@@ -10,7 +10,7 @@ Happy coding!
 
 **Host**: GitHub
 
-- [To-do list](https://dev.d3meth33uuzt1c.amplifyapp.com/)
+- [To-do list](https://dev.d3meth33uuzt1c.amplifyapp.com/) -- **Under construction** 
 
 **Languages used**: Javascript
 
