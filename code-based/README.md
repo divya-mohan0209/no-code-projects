@@ -6,4 +6,4 @@ Happy coding!
 
 - [Portfolio website](shorturl.at/dorI0) 
 
-Languages used: HTML5/CSS/JS
+**Languages used**: HTML5/CSS/JS
