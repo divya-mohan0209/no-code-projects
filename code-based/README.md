@@ -7,3 +7,11 @@ Happy coding!
 - [Portfolio website](shorturl.at/dorI0) 
 
 **Languages used**: HTML5/CSS/JS
+
+**Host**: GitHub
+
+- [To-do list](https://dev.d3meth33uuzt1c.amplifyapp.com/)
+
+**Languages used**: Javascript
+
+**Host**: AmplifyApp
