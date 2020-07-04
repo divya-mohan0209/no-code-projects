@@ -10,4 +10,4 @@ There'll be links (& if possible, resources) included to each of the projects I 
 
 If I haven't mentioned it here it is possible that there were multiple resource involved and for brevity's sake I've ignored it.
 
-In such cases, do feel free to email me by clicking --> mailto: [Divya Mohan] (mailto: divya.mohan0209@gmail.com)
+In such cases, do feel free to email me by clicking --> <mailto: divya.mohan0209@gmail.com> (Divya Mohan)
