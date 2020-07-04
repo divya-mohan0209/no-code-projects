@@ -4,4 +4,4 @@ I'll mention the coding/scripting languages alongside and wherever possible will
 
 Happy coding!
 
-- [Portfolio website hosted on GitHub] (https://divya-mohan0209.github.io/me/)
+- [Portfolio website hosted on GitHub] (shorturl.at/dorI0)
