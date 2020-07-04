@@ -4,4 +4,6 @@ I'll mention the coding/scripting languages alongside and wherever possible will
 
 Happy coding!
 
-- [Portfolio website](shorturl.at/dorI0)
+- [Portfolio website](shorturl.at/dorI0) 
+
+-- Languages used: HTML5/CSS/JS
