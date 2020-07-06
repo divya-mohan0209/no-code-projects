@@ -4,7 +4,7 @@ I'll mention the coding/scripting languages alongside and wherever possible will
 
 Happy coding!
 
-- [Portfolio website](shorturl.at/dorI0) 
+- [Portfolio website](https://divya-mohan0209.github.io/me/) 
 
 **Languages used**: HTML5/CSS/JS
 
@@ -15,3 +15,9 @@ Happy coding!
 **Languages used**: Javascript
 
 **Host**: AmplifyApp
+
+- [Python web scraper](https://github.com/divya-mohan0209/python-scraper)
+
+**Languages used** : Python
+
+**Host**: N/A
