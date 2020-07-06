@@ -16,7 +16,7 @@ Happy coding!
 
 **Host**: AmplifyApp
 
-- [Python web scraper](https://github.com/divya-mohan0209/python-scraper)
+- [Python web scraper](https://github.com/divya-mohan0209/python-scraper) -- **Under construction**
 
 **Languages used** : Python
 
